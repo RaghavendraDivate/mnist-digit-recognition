@@ -7,7 +7,7 @@ A PyTorch CNN that classifies handwritten digits (0–9) from the MNIST dataset 
 - **Dataset**: MNIST — 70,000 grayscale images (28×28), digits 0–9
 - **Model**: Convolutional Neural Network (CNN) — convolutional layers for feature extraction, pooling for downsampling, fully connected layers for classification
 - **Framework**: PyTorch, trained locally with Apple Silicon (MPS) acceleration
-- **Result**: [X]% test accuracy
+- **Result**: 99% test accuracy
 
 ## What this project covers
 
